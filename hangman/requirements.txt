@@ -1,0 +1,10 @@
+expectation:
+    -user must guess letter of random words
+    -user must be able to input limited number of tries
+    -
+
+requirements:
+    -get user input
+    -process the input i.e compare to actual words
+    -display output
+    -exit
